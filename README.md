@@ -6,7 +6,7 @@
 <h3 align="left"> Companies: </h3>
 <ul>
       <li align="left"> Software Developer at [Vindi](https://www.linkedin.com/company/vindi/mycompany/)</li>
-      <li align="left"> Ex-[Repassa](https://www.linkedin.com/company/repassa/)</li>
+      <li align="left"> Ex-[Repassa](https://www.linkedin.com/company/repassa/) Backend Ruby</li>
       <li align="left"> Ex-[stant](https://www.linkedin.com/company/stant/) Full Stack Developer </li>
 </ul>
       
